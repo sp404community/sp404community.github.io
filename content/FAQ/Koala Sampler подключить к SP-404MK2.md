@@ -1,8 +1,6 @@
-[[Приложения]]
+[[Приложения]], [[SP-404MK2]], [[Koala Sampler]]
 
-Как подключить [[SP-404MK2]] к приложению Koala Sampler?
-
-Есть официальный [Setup Guide for Operating Koala Sampler from the SP-404MK2](https://static.roland.com/assets/media/pdf/SP-404MK2_koala_setup_eng01_W.pdf) (на англ.)
+Есть [Официальная инструкция](https://static.roland.com/assets/media/pdf/SP-404MK2_koala_setup_eng01_W.pdf) (En)
 
 
 

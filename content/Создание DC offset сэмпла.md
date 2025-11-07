@@ -4,7 +4,7 @@
 Такой сэмпл можно создать во внешнем звуковом редакторе, напр. Audacity.
 И можно создать прямо в [[SP-404MK2]] его [[Sound Generator]]'ом:
 
-[[Все горячие клавиши|Шорткат]] `SHIFT + Record Settings` чтобы открыть Sound Generator.
+[[FAQ/Горячие клавиши|Шорткат]] `SHIFT + Record Settings` чтобы открыть Sound Generator.
 
 - Waveform: Pulse
 - Velocity: 127
