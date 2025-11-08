@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Telegram: "https://t.me/sp404community",
-      "сайт": "https://sp404.ru/",
+      "Сайт": "https://sp404.ru/",
     },
   }),
 }
