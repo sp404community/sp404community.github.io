@@ -3,7 +3,7 @@ title: Шорткаты
 aliases:
   - shortcuts
   - горячие клавиши
-  - hotkeys
+  - sp-404mk2/hotkeys
 ---
 [[index|SP-404MK2]], [[Руководство пользователя]]
 
