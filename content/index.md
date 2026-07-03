@@ -13,7 +13,7 @@ title: SP404 Community 🎛️
 - [[SP-404/index|SP-404]]
 
 #### Приветствуем дополнения и исправления
-Самое простой способ: написать в [телеграм чате](https://t.me/sp404community) или [в ВК](https://vk.com/sp404community) сообщества — там обитают участники, которые обновляют эту базу знаний.
+Пишите в [телеграм чате](https://t.me/sp404community) или [в ВК](https://vk.com/sp404community) сообщества — там обитают участники, которые обновляют эту базу знаний.
 
 > [!info]- Для разработчиков
 > Если Вы есть на GitHub, откройте [новый тикет](https://github.com/sp404community/sp404community.github.io/issues) в репо `sp404community/sp404community.github.io` и опишите суть инновации.
