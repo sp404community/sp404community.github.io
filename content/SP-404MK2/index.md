@@ -7,7 +7,7 @@ aliases:
 
 Самый новый и крутой из линейки SP-404, четвёртый по счёту в ряду моделей, следует после [[../SP-404A/index|SP-404A]].
 #### Прошивка
-На 23 апреля 2026 [актуальная версия](https://www.roland.com/global/support/by_product/sp-404mk2/updates_drivers/) `Ver.5.51`. 
+На 21 июля 2026 [актуальная версия](https://www.roland.com/global/support/by_product/sp-404mk2/updates_drivers/) `Ver.5.52`. 
 См. также [[Обновление прошивки|обновление прошивки]]
 
 ![[sp-404mkii.jpg|300]]  ![[sp-404mkii_back.jpg|300]]
