@@ -2,7 +2,6 @@
 title: Шорткаты
 aliases:
   - shortcuts
-  - SP-404MK2/shortcuts
 ---
 [[index|SP-404MK2]], [[Руководства для SP-404MK2]]
 
