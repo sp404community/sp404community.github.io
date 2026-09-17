@@ -165,8 +165,11 @@
           }
         },
         "analytics": {
-          "type": "object",
-          "description": "Analytics configuration"
+          "oneOf": [
+            { "type": "null" },
+            { "type": "object", "description": "Analytics configuration" }
+          ],
+          "description": "Analytics configuration (null to disable)"
         },
         "ignorePatterns": {
           "type": "array",
