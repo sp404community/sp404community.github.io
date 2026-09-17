@@ -235,9 +235,6 @@ plugins:
         Telegram: https://t.me/sp404community
         ВК: https://vk.com/sp404community
         Сайт: https://sp404.ru
-    layout:
-      position: body
-      priority: 50
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"
