@@ -1,9 +1,17 @@
 ---
 permalink: /mk2-vs-sx
+title: Сравнение SP-404MK2 и SP-404A/SX
+aliases:
+  - mk2 vs sx
+  - сравнение
+description: Таблица различий между Roland SP-404MK2 и SP-404A/SX.
+tags:
+  - модели
+  - сравнение
 ---
-[[SP-404MK2/index|SP-404MK2]], [[SP-404SX/index|SP-404SX]]
+[[SP-404MK2/index|SP-404MK2]] · [[SP-404SX/index|SP-404SX]] · [[SP-404A/index|SP-404A]]
 
-Различия между моделями SP-404MK2 и SP-404A/SX
+Различия между моделями SP-404MK2 и SP-404A/SX.
 
 [Источник на сайте Roland](https://support.roland.com/hc/en-us/articles/4408578437787-SP-404MK2-Comparison-between-SP-404MK2-and-SP-404A-SX)
 
@@ -156,6 +164,13 @@ permalink: /mk2-vs-sx
 </tr>
 </tbody>
 </table>
+
+## См. также
+
+- [[SP-404MK2/index|SP-404MK2]]
+- [[SP-404SX/index|SP-404SX]]
+- [[SP-404A/index|SP-404A]]
+- [[Хронология SP-404|Хронология линейки]]
 
 
 
