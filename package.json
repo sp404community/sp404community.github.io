@@ -95,12 +95,12 @@
     "globby": "^16.1.0",
     "hast-util-from-html": "^2.1.0",
     "hast-util-to-jsx-runtime": "^2.3.7",
-    "isomorphic-git": "^1.44.12",
+    "isomorphic-git": "^1.44.16",
     "lightningcss": "^1.31.1",
     "micromorph": "^0.4.5",
-    "minimatch": "^11.0.7",
+    "minimatch": "^11.0.9",
     "preact": "^11.2.0",
-    "preact-render-to-string": "^6.8.2",
+    "preact-render-to-string": "^6.8.3",
     "pretty-bytes": "^7.2.0",
     "pretty-time": "^1.1.0",
     "remark-parse": "^11.0.0",
@@ -114,7 +114,7 @@
     "unist-util-visit": "^5.2.0",
     "vfile": "^6.0.3",
     "workerpool": "^10.0.1",
-    "ws": "^8.22.2",
+    "ws": "^8.23.0",
     "yaml": "^2.8.2",
     "yargs": "^18.2.0"
   },
@@ -128,7 +128,7 @@
     "@types/ws": "^8.18.2",
     "@types/yargs": "^17.0.35",
     "esbuild": "^0.28.2",
-    "prettier": "^3.9.10",
+    "prettier": "^3.10.1",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   }
